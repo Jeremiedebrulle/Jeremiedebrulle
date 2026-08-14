@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jérémie Debrulle
 
-<!--
-**Jeremiedebrulle/Jeremiedebrulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development student at 42.
 
-Here are some ideas to get you started:
+Until now my work focused mainly on C/C++, backend development, systems programming and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing the 42 Common Core and working on projects involving web development, networking, databases, Docker and security.
+
+## Technologies
+
+C / C++ / TypeScript / JavaScript / SQL
+
+Linux / Git / Docker / PostgreSQL / Node.js
+
+## Projects
+
+- ft_transcendence — Full-stack web application developed as a team project
+- Inception — Docker-based web infrastructure
+- Cub3D — Raycasting engine written in C
+- Philosophers — Multithreading and synchronization in C
+- Pipex — Unix pipes and process management in C
+- Minishell — Unix shell implementation in C
+- Webserv — HTTP server implementation in C++
