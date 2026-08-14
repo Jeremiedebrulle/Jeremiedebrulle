@@ -14,10 +14,10 @@ Linux / Git / Docker / PostgreSQL / Node.js
 
 ## Projects
 
-- ft_transcendence — Full-stack web application developed as a team project
-- Inception — Docker-based web infrastructure
-- Cub3D — Raycasting engine written in C
-- Philosophers — Multithreading and synchronization in C
 - Pipex — Unix pipes and process management in C
 - Minishell — Unix shell implementation in C
+- Philosophers — Multithreading and synchronization in C
+- Cub3D — Raycasting engine written in C
+- Inception — Docker-based web infrastructure
 - Webserv — HTTP server implementation in C++
+- ft_transcendence — Full-stack web application developed as a team project
