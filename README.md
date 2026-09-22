@@ -4,7 +4,7 @@ Software development student at 42.
 
 Until now my work focused mainly on C/C++, backend development, systems programming and infrastructure.
 
-Currently completing the 42 Common Core and working on projects involving web development, networking, databases, Docker and security.
+Completed the 42 Common Core and working on projects involving web development, networking, databases, Docker and security.
 
 ## Technologies
 
